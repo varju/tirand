@@ -26,11 +26,8 @@ Add the following element to your project's tiapp.xml:
 	var tirand = require("ca.varju.tirand");
 	var randomInt = tirand.random();
 
-## Author
-
-Alex Varju
-
 ## License
 
 Copyright (c) 2011 Alex Varju
-Apache License 2.0
+
+Licensed under the Apache License, Version 2.0
