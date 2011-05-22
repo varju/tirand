@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: A simple random number generator
+author: Alex Varju
+license: Apache License 2.0
+copyright: Copyright (c) 2011 Alex Varju
+
+
+# these should not be edited
+name: tirand
+moduleid: ca.varju.tirand
+guid: 1b22b90c-11bc-445f-b33f-650885f8436a
+platform: iphone
+minsdk: 1.6.2
